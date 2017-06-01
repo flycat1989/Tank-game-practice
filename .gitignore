@@ -259,3 +259,24 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.wav
+*.aif
+*.mat
+*.fbx
+*.png
+*.shader
+/Assets/Animators
+/Assets/AudioClips
+/Assets/Fonts/Bowlby_One
+/Assets/Materials
+/Assets/Models
+/Assets/PostProcessing
+/Assets/Profiles
+/Assets/TutorialInfo
+/Assets/Sprites
+/Assets/_Complete-Game
+/Assets/_Completed-Assets
+/Library
+/ProjectSettings
+/Temp
+/Temp
